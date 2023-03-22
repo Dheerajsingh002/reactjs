@@ -1,0 +1,78 @@
+.con{
+    display: flex;
+    padding: 30px;
+
+}
+
+.con1{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+    
+    /* background-color: antiquewhite; */
+}
+.con1:hover{
+    transform: scale(1.1);
+    transform: rotateZ(45deg);
+   
+
+}
+.con2:hover{
+    transform: scale(1.1);
+    transform: rotateZ(45deg);
+   
+
+}
+.con3:hover{
+    transform: scale(1.1);
+    transform: rotateZ(45deg);
+   
+
+}
+.con4:hover{
+    transform: scale(1.1);
+    transform: rotateZ(45deg);
+   
+
+}
+
+
+.con2{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+}
+.con3{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+}
+.con4{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+}
+.con5{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+    display: none;
+}
+.con6{
+    border: 2px solid green;
+    border-radius: 20px;
+    height: 150px;
+    width: 500px;
+    margin: 10px;
+    display: none;
+}
