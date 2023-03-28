@@ -4,6 +4,7 @@ import SingleNotes from './SingleNotes';
 export default function Inputs() {
     const [notes,AddNotes]=useState([]);
     const [abc,setNotes]=useState('');
+    
     function Updatenotes()
     {
         // eslint-disable-next-line no-restricted-globals

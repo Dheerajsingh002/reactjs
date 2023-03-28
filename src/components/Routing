@@ -1,0 +1,26 @@
+Routing:-
+     -abc.com - default -home -index
+    Signup-Menu/nav - link -sign up opened
+    Login- Menu/Nav- Link -Dashboard
+    url:-
+      abc.com/login -Request
+      Navigation-
+      Control Click-
+
+
+Process in which request is send through various ways like url,menu on the basis of request some code will be executed then you get the component
+
+Library
+  -react-router-dom
+  --V6
+  -Can be used anywhere
+  -Client/Server
+  -Enable the Navigation
+  -Set your Default View
+  Components;-
+    -BrowserRouter
+    -Route
+    -Routes
+
+Initial Taking First Way:-
+  1.Url

@@ -1,6 +1,8 @@
 import './App.css';
+import FormInput from './components/FormInput';
 // import BMI from './components/BMI';
-import Gridd from './components/Gridd';
+// import Gridd from './components/Gridd';
+// import Inputs from './components/Input';
 // import Counter from './components/Counter';
 // import Inputs from './components/Input';
 // import Register from './components/Register';
@@ -9,7 +11,7 @@ import Gridd from './components/Gridd';
 function App() {
   return (
     <div className="App">
-      <Gridd img1="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mtNnxgRNUqWuts2j9OMpVsgYihGDEJSfGQ&usqp=CAU"
+      {/* <Gridd img1="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mtNnxgRNUqWuts2j9OMpVsgYihGDEJSfGQ&usqp=CAU"
       img2="https://buffer.com/library/content/images/library/wp-content/uploads/2018/11/free-images-social.png"
       img3="https://w0.peakpx.com/wallpaper/840/254/HD-wallpaper-beautiful-lion-2880x2560-g3-lg.jpg"
       img4="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpES41VXdacQQVbTG-vWW2CO2wKQLeeT8webb2vIkW1hjoKnCrQIIClQ2vMQhcODuzrtw&usqp=CAU"
@@ -17,7 +19,9 @@ function App() {
       img6="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGUZVEAQXUBIosZF9xqMUCLG0ynOcd2qMTEhVHIy_K2XfKMgBP4Hojjd4Eqhk6cd7o-w&usqp=CAU"
       img7="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrvOZf5zaHg_9a8upGltfVtObFu_0QH1rcw&usqp=CAU"
       img8="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIAQJEdoh9j9Vk5bOUVCFAS7cZN81MXTbpgYgPX3e3q8s-0VKRgWBU1w1NesnugUob6LQ&usqp=CAU"
-      />
+      /> */}
+      {/* <Inputs/> */}
+      <FormInput/>
       
       {/* <BMI/> */}
       {/* <Inputs/> */}
